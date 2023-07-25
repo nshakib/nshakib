@@ -8,8 +8,8 @@ Here are a few things about me:
 3. Improving mental skills by reading books. :green_book:
 
 ### 🔗 Links
-[![portfolio](https://img.shields.io/badge/portfolio-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](http://www.abhishashah.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhisha-shah/)
+[![portfolio](https://img.shields.io/badge/portfolio-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](http://www.nshakib.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazmus-shakib/)
 
   
 ### 🛠 Skills
