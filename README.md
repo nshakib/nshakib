@@ -71,10 +71,13 @@ I'm a passionate developer who loves building impactful digital solutions with c
 ### 📈 GitHub Stats
 Here’s a snapshot of my coding activity and languages I work with.
 
+<!-- 
 ![Md Nazmus Shakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=nazmus-shakib&show_icons=true&theme=default&hide=issues)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nazmus-shakib&layout=compact&theme=dark)
+-->
 
 ---
+
 
 ### 📌 Featured Projects
 
