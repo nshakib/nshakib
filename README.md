@@ -72,13 +72,13 @@ I'm a passionate developer who loves building impactful digital solutions with c
 Here’s a snapshot of my coding activity and languages I work with.
 
 ![Md Nazmus Shakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=nazmus-shakib&show_icons=true&theme=default&hide=issues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazmus-shakib&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nazmus-shakib&layout=compact&theme=dark)
 
 ---
 
 ### 📌 Featured Projects
 
-- 🔧 [**Todo Management System**](https://github.com/nazmus-shakib/todo-app) – Team-based todo app with auth, file uploads, filtering, and notifications.
+- 🔧 [**Inventory Management System**]([https://github.com/nazmus-shakib/todo-app](https://github.com/nshakib/inventory-management-system)) – Team-based todo app with auth, file uploads, filtering, and notifications.
 - 💼 [**Portfolio Site**](https://github.com/nazmus-shakib/portfolio) – A sleek and modern personal website built with React & Tailwind.
 - 📊 [**API Tracker**](https://github.com/nazmus-shakib/api-tracker) – Logs and monitors API request success/failures.
 
