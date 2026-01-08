@@ -1,6 +1,6 @@
 # Hi there, I'm Md Nazmus Shakib 👋
 
-### 🚀 Full Stack Developer | 🎯 Problem Solver | 💡 Tech Enthusiast
+### 🚀 Full Stack Developer(MERN) | 🎯 Problem Solver | 💡 Tech Enthusiast
 
 I'm a passionate developer who loves building impactful digital solutions with clean code, modern UI, and scalable backends. From crafting frontend interfaces to developing efficient APIs, I enjoy every step of the dev journey.
 
