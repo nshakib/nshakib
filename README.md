@@ -1,6 +1,6 @@
 # Hi there, I'm Md Nazmus Shakib 👋
 
-### 🚀 MERN Stack Developer | 🎯 Problem Solver | 💡 Tech Enthusiast
+### ⚡ Software Engineer | 🚀 MERN | 🎯 Critical Problem Solver
 
 I'm a passionate developer who loves building impactful digital solutions with clean code, modern UI, and scalable backends. From crafting frontend interfaces to developing efficient APIs, I enjoy every step of the dev journey.
 
