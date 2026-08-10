@@ -1,21 +1,32 @@
-# Hi there, I'm Md Nazmus Shakib 👋
+<div align="center">
 
-### ⚡ Software Engineer | 🚀 MERN | 🎯 Critical Problem Solver
+![Banner](https://capsule-render.com/api?type=waving&color=0:38B2AC,100:0F172A&height=200&section=header&text=Md%20Nazmus%20Shakib&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20MERN&descAlignY=55&descSize=18)
+
+</div>
+
+### ⚡ Full-Stack Software Engineer | 🚀 MERN | 🎯 Critical Problem Solver
+
+## 👋 About Me
 
 I'm a passionate developer who loves building impactful digital solutions with clean code, modern UI, and scalable backends. From crafting frontend interfaces to developing efficient APIs, I enjoy every step of the dev journey.
+
+- 🔭 Currently building an **Inventory Management System** — full-stack app with auth, file uploads, filtering, and notifications
+- 🌱 Currently exploring **Next.js** and server-side rendering
+- 💡 Focused on writing clean, testable, and scalable code
+- 👯 Open to collaborating on MERN-stack projects
 
 ---
 
 ### 🛠️ Tech Stack & Workflow
 
-- Proficient with **Git** for version control and collaboration  
-- Use **Postman** for documenting and testing APIs  
-- Write clean, secure backend code using **Node.js** and **Express**  
+- Proficient with **Git** for version control and collaboration
+- Use **Postman** for documenting and testing APIs
+- Write clean, secure backend code using **Node.js** and **Express**
 - Build responsive frontend with **React** and **TailwindCSS**
 - Ensure smooth UX with animations and routing using **Framer Motion** and **React Router**
 - Write and run unit/integration tests using **Jest** to ensure code reliability
 
-<br><br>
+<br>
 
 **Frontend:**  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
@@ -38,8 +49,6 @@ I'm a passionate developer who loves building impactful digital solutions with c
 **Authentication & Security:**  
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=fff)
 ![bcrypt](https://img.shields.io/badge/-🛡️%20Bcrypt-6B7280?style=flat)
-
-
 
 **Networking & Libraries:**  
 ![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=flat&logo=axios&logoColor=fff)
@@ -69,31 +78,37 @@ I'm a passionate developer who loves building impactful digital solutions with c
 ---
 
 ### 📈 GitHub Stats
-Here’s a snapshot of my coding activity and languages I work with.
 
-<!-- 
-![Md Nazmus Shakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=nazmus-shakib&show_icons=true&theme=default&hide=issues)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nazmus-shakib&layout=compact&theme=dark)
--->
+<div align="center">
+
+![Md Nazmus Shakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=nshakib&show_icons=true&theme=default&hide=issues)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nshakib&layout=compact&theme=default)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nshakib&theme=default)
+
+</div>
 
 ---
 
-
 ### 📌 Featured Projects
 
-- 🔧 [**Inventory Management System**]([https://github.com/nazmus-shakib/todo-app](https://github.com/nshakib/inventory-management-system)) – Team-based todo app with auth, file uploads, filtering, and notifications.
-- 💼 [**Portfolio Site**](https://github.com/nazmus-shakib/portfolio) – A sleek and modern personal website built with React & Tailwind.
-- 📊 [**API Tracker**](https://github.com/nazmus-shakib/api-tracker) – Logs and monitors API request success/failures.
+- 🔧 [**Inventory Management System**](https://github.com/nshakib/inventory-management-system-backend) – Full-stack inventory app with auth, file uploads, filtering, and notifications.
+- 🌦️ [**React Weather App**](https://github.com/nshakib/React-Weather-Application) – Fetches and displays live weather by city/country.
+- ⏱️ [**Tomatillo Timer**](https://github.com/nshakib/tomatillo-timer) – A Pomodoro-inspired productivity timer.
+- 💼 [**Portfolio Site**](https://nshakib.vercel.app) – A sleek and modern personal website built with React & Tailwind.
 
 ---
 
 ### 📬 Let's Connect
 
-- 🌐 [Portfolio Website](https://yourportfolio.com)
+- 🌐 [Portfolio](https://nshakib.vercel.app)
 - 📧 Email: nazmus.shakib.cse@gmail.com
-- 🐙 GitHub: [nazmus-shakib](https://github.com/nazmus-shakib)
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
-- 🐦 [Twitter](https://twitter.com/nshakib)
+- 🐙 GitHub: [@nshakib](https://github.com/nshakib)
+- 💼 [LinkedIn](https://www.linkedin.com/in/nazmus-shakib/)
+
 ---
 
-_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+<div align="center">
+
+_"Code is like humor. When you have to explain it, it's bad." – Cory House_
+
+</div>
