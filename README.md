@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](https://capsule-render.com/api?type=waving&color=0:38B2AC,100:0F172A&height=200&section=header&text=Md%20Nazmus%20Shakib&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20MERN&descAlignY=55&descSize=18)
+![Banner](banner.jpeg)
 
 </div>
 
