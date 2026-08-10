@@ -4,106 +4,47 @@
 
 </div>
 
-### ⚡ Full-Stack Software Engineer
+### ⚡ Full-Stack Software Engineer | Passionate about Performance, Security, and Scalable Backend Systems
 
 ## 👋 About Me
 
 I'm a passionate developer who loves building impactful digital solutions with clean code, modern UI, and scalable backends. From crafting frontend interfaces to developing efficient APIs, I enjoy every step of the dev journey.
 
-- 🔭 Currently building an **Inventory Management System** — full-stack app with auth, file uploads, filtering, and notifications
-- 🌱 Currently exploring **Next.js** and server-side rendering
-- 💡 Focused on writing clean, testable, and scalable code
-- 👯 Open to collaborating on MERN-stack projects
+- 🔭 I’m currently building scalable web applications with React.js, Next.js, and TypeScript.
+- 🤝 I’m proficient in Node.js, Express.js, MongoDB, Prisma, and REST API development.
+- 🌱 I’m currently learning Docker, AWS, Redis, and Advanced System Design.
+- 💬 Ask me about Full-Stack Development, REST APIs, Authentication, RBAC, and Web Scalability.
+- ⚡ Fun fact: I enjoy turning real-world business problems into practical software solutions and continuously improving my code.
 
----
-
-### 🛠️ Tech Stack & Workflow
-
-- Proficient with **Git** for version control and collaboration
-- Use **Postman** for documenting and testing APIs
-- Write clean, secure backend code using **Node.js** and **Express**
-- Build responsive frontend with **React** and **TailwindCSS**
-- Ensure smooth UX with animations and routing using **Framer Motion** and **React Router**
-- Write and run unit/integration tests using **Jest** to ensure code reliability
-
-<br>
-
-**Frontend:**  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=fff)
-![React Router](https://img.shields.io/badge/-React%20Router-CA4245?style=flat&logo=react-router&logoColor=fff)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=fff)
-![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-EF008F?style=flat&logo=framer&logoColor=fff)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=fff)
-
-**Backend:**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff)
-![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql&logoColor=fff)
-
-**Authentication & Security:**  
-![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=fff)
-![bcrypt](https://img.shields.io/badge/-🛡️%20Bcrypt-6B7280?style=flat)
-
-**Networking & Libraries:**  
-![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=flat&logo=axios&logoColor=fff)
-![Nodemailer](https://img.shields.io/badge/-Nodemailer-009688?style=flat&logo=gmail&logoColor=fff)
-![Multer](https://img.shields.io/badge/-Multer-FF6F00?style=flat&logo=buffer&logoColor=fff)
-
-**Tools & DevOps:**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=fff)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=fff)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=fff)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=000)
-![npm](https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&logoColor=fff)
-
-**Testing & Validation:**  
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=fff)
-
-**Deployment:**  
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=fff)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=fff)
-![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render&logoColor=000)
-
-**Collaboration & Management:**  
-![ClickUp](https://img.shields.io/badge/-ClickUp-7B68EE?style=flat&logo=clickup&logoColor=fff)
-![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=fff)
-
----
+## 🚀 Tech Stack:
+![Tech Stack](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,postgresql,express,mongodb,tailwind,prisma,github&theme=light)
 
 ### 📈 GitHub Stats
 
 <div align="center">
 
-![Md Nazmus Shakib's GitHub stats](https://github-readme-stats-anuraghazra.vercel.app/api?username=nshakib&show_icons=true&theme=default&hide=issues)
-![Top Languages](https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=nshakib&layout=compact&theme=default&cache_seconds=86400)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nshakib&theme=default)
+<!-- Keep ONLY ONE streak widget -->
+![Md Nazmus Shakib's GitHub stats](https://streak-stats.demolab.com?user=nshakib&theme=default&hide_border=true&cache_seconds=3600)
+
+<!-- Top Languages (unique data) -->
+![Top Languages](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=nshakib&layout=compact&theme=default&cache_seconds=86400)
+
+
 
 </div>
 
 ---
 
-### 📌 Featured Projects
-
-- 🔧 [**Inventory Management System**](https://github.com/nshakib/inventory-management-system-backend) – Full-stack inventory app with auth, file uploads, filtering, and notifications.
-- 🌦️ [**React Weather App**](https://github.com/nshakib/React-Weather-Application) – Fetches and displays live weather by city/country.
-- ⏱️ [**Tomatillo Timer**](https://github.com/nshakib/tomatillo-timer) – A Pomodoro-inspired productivity timer.
-- 💼 [**Portfolio Site**](https://nshakib.vercel.app) – A sleek and modern personal website built with React & Tailwind.
-
----
-
 ### 📬 Let's Connect
+<p align="left">
+  <a href="https://www.linkedin.com/in/nazmus-shakib/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40" style="vertical-align: middle;" />
+  </a>
+  <a href="mailto:nazmus.shakib.cse@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" height="40" style="vertical-align: middle;" />
+  </a>
+</p>
 
-- 🌐 [Portfolio](https://nshakib.vercel.app)
-- 📧 Email: nazmus.shakib.cse@gmail.com
-- 🐙 GitHub: [@nshakib](https://github.com/nshakib)
-- 💼 [LinkedIn](https://www.linkedin.com/in/nazmus-shakib/)
 
 ---
 
