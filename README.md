@@ -1,6 +1,6 @@
-<div align="center">
 # Hello 👋, I'm Md Nazmus Shakib 
-  
+
+<div align="center">
 ![Banner](banner.jpeg)
 
 </div>
