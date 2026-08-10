@@ -4,7 +4,7 @@
 
 </div>
 
-### ⚡ Full-Stack Software Engineer | 🚀 MERN | 🎯 Critical Problem Solver
+### ⚡ Full-Stack Software Engineer
 
 ## 👋 About Me
 
@@ -81,7 +81,7 @@ I'm a passionate developer who loves building impactful digital solutions with c
 
 <div align="center">
 
-![Md Nazmus Shakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=nshakib&show_icons=true&theme=default&hide=issues)
+![Md Nazmus Shakib's GitHub stats](https://github-readme-stats-anuraghazra.vercel.app/api?username=nshakib&show_icons=true&theme=default&hide=issues)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nshakib&layout=compact&theme=default)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nshakib&theme=default)
 
