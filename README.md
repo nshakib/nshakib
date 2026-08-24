@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Banner](banner.jpeg)
+![Banner](Banner.png)
 
 </div>
 
